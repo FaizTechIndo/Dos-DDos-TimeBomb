@@ -3,6 +3,12 @@ Attack a website with timebomb and Dos / DDos
 
 Serangan ini pencampuran antara serangan Dos dan DDos dan Time Bomb
 
+Cara download:
+git clone https://github.com/FaizTechIndo/Dos-DDos-TimeBomb.git
+cd Dos-DDos-TimeBomb
+chmod +x *
+python3 dos-ddos-timebomb.py
+
 Pakai: 
 
 python3 dos-ddos-timebomb.py -t (target website) -p (portwebsite) -m (jam serangan dimulai) -s (jam serangan selesai) --message (pesan)
